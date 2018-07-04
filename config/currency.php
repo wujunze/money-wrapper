@@ -10,4 +10,8 @@ return [
         'swift_code' => 'USD',
         'symbol'     => '$',
     ],
+    'CNY' => [
+        'swift_code' => 'CNY',
+        'symbol' => '¥',
+    ],
 ];
